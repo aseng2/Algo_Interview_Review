@@ -1,0 +1,3 @@
+Welcome to Algorithm Reviews
+The Following Algorithms are Avaiable: 
+Binary Search
